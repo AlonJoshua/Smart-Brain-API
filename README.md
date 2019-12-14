@@ -4,6 +4,6 @@ This is the back-end part project. For the app to work, you'll also need to use 
 
 Instruction:
 
-Download Smart-Brain-API & Face-Recognition projects.
-run npm install in both.
-run npm start in both.
+1) Download Smart-Brain-API & Face-Recognition projects.
+2) run npm install in both.
+3) run npm start in both.
