@@ -1,6 +1,6 @@
 Post a url of a picture and our app will find where there is a human face in it.
 
-This is the back-end part project. For the app to work, you'll also need to use the Face-Recognition front-end projet.
+This is the back-end part project. For the app to work, you'll also need to use the Face-Recognition front-end project.
 
 Instruction:
 
